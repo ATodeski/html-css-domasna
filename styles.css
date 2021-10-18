@@ -1,0 +1,66 @@
+# html-css-domasna
+.sostav {
+    width:98%;
+    height:320px;
+    background-color:rgba(217, 251, 255, 0.144);
+    padding-top:20px;
+    padding-left:15px;
+    padding-right:15px;
+}
+#first-box {
+    float:left;
+    width:30%;
+    height:250px;
+    background-color:white;
+    border:solid black;
+}
+#second-box {
+    float:left;
+    width:30%;
+    height:250px;
+    background-color:white; 
+    border:solid black;
+    margin-left:55px;
+}
+#third-box {
+    float:left;
+    width:30%;
+    height:250px;
+    background-color:white;
+    border:solid rgb(0, 0, 0);
+    margin-left:55px;
+}
+h1 {
+    color :rgb(75, 0, 126)
+}
+
+h2 {
+    color :rgb(0, 126, 84)
+}
+
+body {
+    text-align: center;
+}
+.sostav2 {
+    width:98%;
+    height:390px;
+    background-color:rgba(255, 0, 0, 0.048);
+    padding-top:20px;
+    padding-left:15px;
+    padding-right:15px;
+}
+#b1 {
+    float:left;
+    width: 47%;
+    height:330px;
+    background-color:white;
+    border:solid black;
+}
+#b2 {
+    float:right;
+    width:47%;
+    height:330px;
+    background-color:white; 
+    border:solid black;
+    margin-left:55px;
+}
